@@ -100,7 +100,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Megalodon Hunt",
             "Ghost Shark Hunt",
             "Shark Hunt",
-            -- ["Ancient Lochness Monster"] = true,
+            -- ["Ancient Lochness Monster"] = false,
         },
     },
     ["Enchant"] = {
@@ -136,8 +136,9 @@ _G.FishItConfig = _G.FishItConfig or {
             "Big Hunter I",
             "Mutation Hunter III",
             "Mutation Hunter II",
-            "Mutation Hunter I",
             "Reeler II",
+            "Leprechaun II",
+            "Empowered I",
 
         },
         ["Minimum Rod"] = "Ghostfinn Rod",
