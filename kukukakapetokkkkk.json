@@ -17,7 +17,7 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Auto Trade"] = {
         ["Enabled"] = true,
-        ["Whitelist Username"] = {"triomacan77","HendyCarlson","boboboytopian","bibocaten","ChaidenBarnard2","AndrianEdmund5","CodyAyhner443","jojoganteng309",},
+        ["Whitelist Username"] = {"triomacan77","HendyCarlson","boboboytopian","bibocaten","ChaidenBarnard2","AndrianEdmund5","CodyAyhner443","jojoganteng309","Ulya08Kusuma","Virtgbtratama","Yoga59Nugraha","Zara147999raini",},
         ["Category Fish"] = {
             "Secret","Mythic",
             -- {Tier = "Mythic", Variant = "Stone"}, -- Tier + Variant
@@ -163,12 +163,13 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Endgame"] = "",
     },
 
-    ["ExtremeFpsBoost"] = true,
+    ["ExtremeFpsBoost"] = false,
     ["UltimatePerformance"] = false,
     ["Disable3DRender"] = false,
-    ["AutoRemovePlayer"] = true,
+    ["AutoRemovePlayer"] = false,
 
     ["AutoReconnect"] = false,
     ["HideGUI"] = false,
     ["EXIT_MAP_IF_DISCONNECT"] = false,
 }
+
