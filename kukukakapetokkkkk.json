@@ -72,7 +72,7 @@ _G.FishItConfig = _G.FishItConfig or {
     ["Selling"] = {
         ["Auto Sell"] = true,
         ["Auto Sell Threshold"] = "Mythic",
-        ["Auto Sell Every"] = 100,
+        ["Auto Sell Every"] = 25,
     },
     ["Doing Quest"] = {
         ["Auto Ghostfinn Rod"] = true,
@@ -139,16 +139,10 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Enchant"] = {
         ["Auto Enchant"] = true,
-        ["Roll Enchant"] = false,
-        ["Evolved Roll Enchant"] = true,
+        ["Roll Enchant"] = true,
+        ["Evolved Roll Enchant"] = false,
         ["Enchant List"] = {
-            "Reeler II",
-            "SECRET Hunter",
-            "Shark Hunter",
-            "Mutation Hunter III",
             "Leprechaun II",
-            "Mutation Hunter II",
-            "Prismatic I",
         },
         ["Second Enchant"] = true,
         ["Allowed Sacrifice"] = {
@@ -167,12 +161,7 @@ _G.FishItConfig = _G.FishItConfig or {
         },
         ["Second Enchant List"] = {
             "Perfection",
-            "Big Hunter I",
-            "Mutation Hunter III",
-            "Mutation Hunter II",
-            "Reeler II",
             "Leprechaun II",
-            "Empowered I",
 
         },
         ["Minimum Rod"] = "Ghostfinn Rod",
