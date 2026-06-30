@@ -14,6 +14,7 @@ _G.FishItConfig = _G.FishItConfig or {
 
         ["Auto Accept Trade"] = true,
         ["Auto Friend Request"] = false,
+        ["Trade Timeout"] = 90,
     },
     ["Auto Trade"] = {
         ["Enabled"] = true,
@@ -97,15 +98,6 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Link Webhook Quest Complete"] = "https://discord.com/api/webhooks/1474823473397502104/h9G6IWGbGNGDjwppXGCZDec97FgUJei58L0qw_ZgQE8tcqDJ25KxHa5J18AP0yWJMQ1O",
     },
 
-["Enchant"] = {
-    ["Farm Until Enchant"] = true,
-},
-
-["Fishing"] = {
-    ["Trade Timeout"] = 90, 
-},
-
-
     ["Weather"] = {
         ["Auto Buying"] = true,
         ["Minimum Rod"] = "Ghostfinn Rod",
@@ -141,6 +133,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Enchant"] = true,
         ["Roll Enchant"] = false,
         ["Evolved Roll Enchant"] = true,
+        ["Farm Until Enchant"] = false,
         ["Enchant List"] = {
             "SECRET Hunter",
         },
