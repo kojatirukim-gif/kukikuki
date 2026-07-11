@@ -55,7 +55,6 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Item Name"] = {
             "Runic Enchant Stone",
         },
-    },
 
     ["Selling"] = {
         ["Auto Sell"] = true,
