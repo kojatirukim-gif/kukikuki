@@ -55,7 +55,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Item Name"] = {
             "Runic Enchant Stone",
         },
-
+    },
     ["Selling"] = {
         ["Auto Sell"] = true,
         ["Auto Sell Threshold"] = "Mythic", -- Common/Uncommon/Rare/Epic/Legendary/Mythic/Secret. Sells this tier AND below; favorited/target fish never sold.
